@@ -1,0 +1,8 @@
+[package]
+name = "sfml_test"
+version = "0.1.0"
+authors = ["Ivan Bodrov <ibodrov@jet.msk.su>"]
+
+[dependencies]
+sfml = "0.10"
+time = "*"
